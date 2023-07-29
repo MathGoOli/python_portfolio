@@ -3,7 +3,7 @@ simple way to scrape data through internet
 
 DISCLAIMER:
 
-this is just an module using bs4.
+this is just functions using bs4.
 
 you must know a little of HTML to use it.
 
